@@ -43,7 +43,7 @@ export function loadPromotions() {
   return [
     {
       type: 'BUY_TWO_GET_ONE_FREE',
-      barcodes: [
+      barcode: [
         'ITEM000000',
         'ITEM000001',
         'ITEM000005'
